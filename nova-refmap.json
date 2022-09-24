@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "Simp/mixins/minecraft/AnvilBlockMixin": {
+      "getOutlineShape": "Lnet/minecraft/class_2199;method_9530(Lnet/minecraft/class_2680;Lnet/minecraft/class_1922;Lnet/minecraft/class_2338;Lnet/minecraft/class_3726;)Lnet/minecraft/class_265;"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "Simp/mixins/minecraft/AnvilBlockMixin": {
+        "getOutlineShape": "Lnet/minecraft/class_2199;method_9530(Lnet/minecraft/class_2680;Lnet/minecraft/class_1922;Lnet/minecraft/class_2338;Lnet/minecraft/class_3726;)Lnet/minecraft/class_265;"
+      }
+    }
+  }
+}

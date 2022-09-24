@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "nova",
+  "version": "1",
+  "name": "Nova Addon",
+  "description": "Nova is cool",
+  "authors": [
+    "Harshkirat13",
+    "Wide-Cat",
+    "RyanIsMid"
+  ],
+  "icon": "assets/logo1.png",
+  "environment": "client",
+  "entrypoints": {
+    "meteor": [
+      "Nova.NovaAddon"
+    ]
+  },
+  "accessWidener": "accesswidener",
+  "custom": {
+    "meteor-client:color": "255,193,0"
+  },
+  "depends": {
+    "java": ">=17",
+    "minecraft": ">=1.19.1",
+    "meteor-client": ">=0.4.9"
+  },
+  "breaks": {
+    "bedtrap": "*",
+    "splashhack": "*"
+  }
+
+}
+
